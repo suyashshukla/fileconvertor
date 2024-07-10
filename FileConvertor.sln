@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileConvertor", "FileConvertor.csproj", "{2D3E18A5-7D61-4ED3-B8F9-4F12F1CCB5EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D3E18A5-7D61-4ED3-B8F9-4F12F1CCB5EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D3E18A5-7D61-4ED3-B8F9-4F12F1CCB5EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D3E18A5-7D61-4ED3-B8F9-4F12F1CCB5EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D3E18A5-7D61-4ED3-B8F9-4F12F1CCB5EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {742A8D3F-0736-4139-836E-FC8EAB5BC959}
+	EndGlobalSection
+EndGlobal
